@@ -14,7 +14,7 @@ Web Developer & Web Designer
 Let's connect and embark on an exciting journey of innovation and creativity together! 🚀
 
 *   🌍  I'm based in Hosur, India.
-*   🖥️  See my portfolio at [My Portfolio](http://https://mullaivenese03.github.io/Portfolio/)
+*   🖥️  See my portfolio at [My Portfolio](https://mullaivenese03.github.io/Portfolio/)
 *   ✉️  You can contact me at [mullaivenesecontact@gmail.com](mailto:mullaivenesecontact@gmail.com) or [LinkBio](https://linkbio.co/MrMullaiVenese)
 *   🧠  I'm learning Web Development & Web Designer.
 *   🤝  I'm open to collaborating on Development and designing
