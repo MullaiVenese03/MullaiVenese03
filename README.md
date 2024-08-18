@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MullaiVenese P
 ====================================================================================================================================
 
-Web Developer & Web Designer
+Web Developer
 ----------------------------
 
-👋 Hey there! I'm MullaiVenese P. A passionate web developer and design aficionado ready to take your digital presence to the next level! 
+👋 Hey there! I'm MullaiVenese P. A passionate web developer, ready to take your digital presence to the next level! 
 
 🌟 With 2 years of hands-on experience in both web development and design, I bring a blend of technical expertise and creative flair to every project. 
 
