@@ -6,9 +6,9 @@ Web Developer
 
 👋 Hey there! I'm MullaiVenese P. A passionate web developer, ready to take your digital presence to the next level! 
 
-🌟 With 2 years of hands-on experience in both web development and design, I bring a blend of technical expertise and creative flair to every project. 
+🌟 With 2 years of hands-on experience in web development and design, I bring technical expertise and creative flair to every project. 
 
-💻 I specialize in crafting sleek and responsive websites that not only look stunning but also deliver seamless user experiences. 
+💻 I specialize in crafting sleek and responsive websites that look stunning and deliver seamless user experiences. 
 
 🎨 From pixel-perfect designs to cutting-edge functionalities, I'm committed to turning your vision into reality, one line of code at a time. 
 
