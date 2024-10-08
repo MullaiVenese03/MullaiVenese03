@@ -47,6 +47,8 @@ Let's connect and embark on an exciting journey of innovation and creativity tog
 
 <a href="https://github.com/MullaiVenese03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MullaiVenese03&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![MullaiVenese github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MullaiVenese03&bg_color=000000&color=ffffff&line=44ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/MullaiVenese03/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MullaiVenese03&repo=portfolio&title_color=6366f1&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
