@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MullaiVenese03&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MullaiVenese03&theme=github_dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com?user=MullaiVenese03&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MullaiVenese03&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
