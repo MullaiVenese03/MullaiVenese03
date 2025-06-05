@@ -91,7 +91,7 @@
 ###
 
 <br clear="both">
-    <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" alt="GitHub Snake Animation" />
+    <img src="https://raw.githubusercontent.com/MullaiVenese03/MullaiVenese03/output/github-snake.svg" alt="GitHub Snake Animation" />
 
 ###
 
