@@ -91,11 +91,6 @@
 ###
 
 <br clear="both">
-    <img src="https://raw.githubusercontent.com/MullaiVenese03/MullaiVenese03/output/github-snake.svg" alt="GitHub Snake Animation" />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=MullaiVenese03&theme=dracula&column=8&row=4&margin-w=20&margin-h=20&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
